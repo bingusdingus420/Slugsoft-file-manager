@@ -1,0 +1,1 @@
+Slugsoft file manager is a WIP mass file moving tool made by myself in BASH for *NIX operating systems. it currently only has a repository. Im probably gonna accept most pulls that know what they're doing, bc god knows i don't
